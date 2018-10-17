@@ -1,5 +1,5 @@
-MysqliDb -- Simple MySQLi wrapper and object mapper with prepared statements
-add namespace for MysqliDb class
+MysqliDb -- Simple MySQLi wrapper and object mapper with prepared statements;
+<br>---add namespace for MysqliDb class
 <hr>
 
 ### Table of Contents
